@@ -1,2 +1,2 @@
-@Anticancer Peptides Prediction using Statistical Moment and Amino Acid Composition
-#Journal Name
+# Anticancer Peptides Prediction using Statistical Moment and Amino Acid Composition
+
